@@ -77,4 +77,4 @@ Programation
 * [x] Taks 4
 * [ ] Taks 5
 
-:smilly:
+:scissors:
