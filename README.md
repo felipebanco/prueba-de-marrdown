@@ -72,7 +72,9 @@ Programation
 
 <!--GITHUB MARKDOWN-->
 * [x] Taks 1
-* [] Taks 2
-* [] Taks 3
+* [ ] Taks 2
+* [ ] Taks 3
 * [x] Taks 4
-* [] Taks 5
+* [ ] Taks 5
+
+:smilly:
